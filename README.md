@@ -1,4 +1,4 @@
-## Hexi
+## Hexapod Robot
 
 **This repository contains files and resources dedicated to the design, construction and control of a very unique hexapod walking robot**
 
